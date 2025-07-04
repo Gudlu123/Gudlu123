@@ -30,13 +30,6 @@
 
 ---
 
-### 📌 Featured Projects:
-- 🔗 [Portfolio Website](https://github.com/yourusername/portfolio-website) — Built with HTML, CSS, JS
-- 🔗 [DSA Tracker](https://github.com/yourusername/dsa-tracker) — Tracks daily progress
-- 🔗 [Simple Calculator](https://github.com/yourusername/calculator-webapp) — Clean, responsive design
-
----
-
 📫 **Reach me at**: [anshuman.blr07@gmail.com](mailto:anshuman.blr07@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/anshumandas123](https://www.linkedin.com/in/anshumandas123)
 
