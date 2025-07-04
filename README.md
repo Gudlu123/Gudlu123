@@ -8,6 +8,7 @@
 💻 I love building real-world mini-projects and exploring how things work under the hood  
 
 🎯 Always open to new challenges, tech internships, and collaboration  
+
 📍 Based in Bengaluru, India
 
 
